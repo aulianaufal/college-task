@@ -45,7 +45,7 @@ body {
 }
 .banner {
     height: 450px;
-    background-image: url(./img/buah.jpg);
+    background-image: url(./images/buah.jpg);
     background-size: cover;
     background-position: 0, -180px;
     border-bottom: 3px solid var(--primary);
